@@ -1,0 +1,13 @@
+table, tr, td{
+  border: solid 2px green;
+  border-collapse: collapse;
+  padding: 2px;
+  background-color: yellow;
+  font-style: italic;
+  color: red;
+  font-weight: bold;
+}
+
+h1{
+  color: green;
+}
